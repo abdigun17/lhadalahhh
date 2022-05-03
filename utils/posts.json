@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "thumbnail": "assets/images/thumbnail-2.png",
+    "category": "Internet",
+    "date": "June 28, 2022",
+    "title": "How to design a product that can grow itself 10x in year",
+    "shortDescription": "Auctor Porta. Augue vitae diam mauris faucibus blandit elit per, feugiat leo dui orci. Etiam vestibulum. Nostra netus per conubia dolor.",
+    "authorName": "Jenny Wilson",
+    "authorJob": "Product Designer",
+    "authorAvatar": "assets/images/jenny-wilson.png"
+  },
+  {
+    "id": 2,
+    "thumbnail": "assets/images/thumbnail-3.png",
+    "category": "9 TO 5",
+    "date": "June 22, 2022",
+    "title": "The More Important the Work, the More Important the Rest",
+    "shortDescription": "Suitable Quality is determined by product users, clients or customers, not by society in general. For example, a low priced product may be viewed as having high.",
+    "authorName": "Esther Howard",
+    "authorJob": "Entrepreneur",
+    "authorAvatar": "assets/images/esther-howard.png"
+  },
+  {
+    "id": 3,
+    "thumbnail": "assets/images/thumbnail-4.png",
+    "category": "INSPIRATIONS",
+    "date": "June 18, 2022",
+    "title": "Email Love - Email Inspiration, Templates and Discovery",
+    "shortDescription": "Consider that for a moment: everything we see around us is assumed to have had a cause and is contingent upon something else.",
+    "authorName": "Jenny Wilson",
+    "authorJob": "Robert Fox",
+    "authorAvatar": "assets/images/robert-fox.png"
+  },
+  {
+    "id": 4,
+    "thumbnail": "assets/images/thumbnail-5.png",
+    "category": "Internet",
+    "date": "June 28, 2022",
+    "title": "The More Important the Work, the More Important the Rest",
+    "shortDescription": "Auctor Porta. Augue vitae diam mauris faucibus blandit elit per, feugiat leo dui orci. Etiam vestibulum. Nostra netus per conubia dolor.",
+    "authorName": "Jenny Wilson",
+    "authorJob": "Product Designer",
+    "authorAvatar": "assets/images/jenny-wilson.png"
+  },
+  {
+    "id": 5,
+    "thumbnail": "assets/images/thumbnail-6.png",
+    "category": "9 TO 5",
+    "date": "June 22, 2022",
+    "title": "The More Important the Work, the More Important the Rest",
+    "shortDescription": "Suitable Quality is determined by product users, clients or customers, not by society in general. For example, a low priced product may be viewed as having high.",
+    "authorName": "Esther Howard",
+    "authorJob": "Entrepreneur",
+    "authorAvatar": "assets/images/esther-howard.png"
+  },
+  {
+    "id": 6,
+    "thumbnail": "assets/images/thumbnail-7.png",
+    "category": "INSPIRATIONS",
+    "date": "June 18, 2022",
+    "title": "How to design a product that can grow itself 10x in year",
+    "shortDescription": "Auctor Porta. Augue vitae diam mauris faucibus blandit elit per, feugiat leo dui orci. Etiam vestibulum. Nostra netus per conubia dolor.",
+    "authorName": "Jenny Wilson",
+    "authorJob": "Product Designer",
+    "authorAvatar": "assets/images/robert-fox.png"
+  }
+]

@@ -26,7 +26,7 @@ export default function Detail() {
         </div>
         <div className="md:w-10/12 w-full mx-auto my-10">
           <img
-            src="assets/images/detail-image.png"
+            src="../public/assets/images/detail-image.png"
             className="w-full rounded-lg"
           />
         </div>

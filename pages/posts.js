@@ -20,7 +20,7 @@ export default function Posts() {
           <div className="text-center py-20">
             <h2 className="text-6xl">No result 😥</h2>
             <p className="text-xl mt-4 text-white/60 md:w-6/12 mx-auto">
-              Sorry doggie we couldn't find your pages
+              Sorry doggie we couldnt find your pages
             </p>
           </div>
         ) : (

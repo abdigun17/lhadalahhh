@@ -12,7 +12,7 @@ export default function Posts() {
   return (
     <Layout>
       <Head>
-        <title>Categories &mdash; PAPI Bali</title>
+        <title>Categories PAPI Bali</title>
       </Head>
       <Container>
         <SectionHeader>UI design</SectionHeader>

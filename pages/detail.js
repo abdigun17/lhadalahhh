@@ -21,12 +21,12 @@ export default function Detail() {
           <PostAuthor
             authorName="Leslie Alexander"
             authorJob="UI Designer"
-            authorAvatar="../public/assets/images/lezlie.png"
+            authorAvatar="assets/images/lezlie.png"
           />
         </div>
         <div className="md:w-10/12 w-full mx-auto my-10">
           <img
-            src="../public/assets/images/detail-image.png"
+            src="assets/images/detail-image.png"
             className="w-full rounded-lg"
           />
         </div>

@@ -8,7 +8,7 @@ export default function Detail() {
   return (
     <Layout>
       <Head>
-        <title>Detail &mdash; PAPI Bali</title>
+        <title>Detail PAPI Bali</title>
       </Head>
       <Container>
         <div className="md:w-6/12 w-full mx-auto flex items-center flex-col">
